@@ -1,0 +1,19 @@
+{
+"Priorities" : 
+[
+{
+    "id" : 1,
+    "name" : "Life Changing",
+    "rank" : 1
+},
+{    "id" : 2,
+    "name" : "Important",
+    "rank" : 2
+},
+{
+    "id" : 3,
+    "name" : "Meh",
+    "rank": 3
+}
+]
+}
